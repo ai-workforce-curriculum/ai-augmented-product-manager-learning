@@ -14,4 +14,4 @@ TBD.
 
 | Module | Status |
 |---|---|
-| mod-XXX | planned |
+| [mod-001: The Delegation Decision](lessons/mod-001-the-delegation-decision/README.md) | written |
